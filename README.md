@@ -1,3 +1,3 @@
 # Jekyllframe
 
-A library of components for creating a responsive wireframes.
+A library of components for creating a responsive wireframe.
